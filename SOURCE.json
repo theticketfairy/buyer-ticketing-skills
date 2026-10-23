@@ -1,0 +1,12 @@
+{
+  "source_repository": "https://github.com/theticketfairy/agent-skills",
+  "source_commit": "186567788b4881e5c37fadc69132756dd3c02bda",
+  "uncommitted_source": false,
+  "skills": [
+    {
+      "name": "find-event-tickets",
+      "source_path": "skills/find-event-tickets/SKILL.md",
+      "sha256": "c75eb3fd40e77e2d63f0dcb9af64d001f503407d369bc4a2dcd9df8e629902e9"
+    }
+  ]
+}
